@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/*Navbar */
 
 .menu {
     background-color: #080E33;
@@ -12,3 +13,5 @@
 .menu-link {
     color: #fff;
 }
+
+/*Banner*/
