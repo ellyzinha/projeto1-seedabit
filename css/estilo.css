@@ -1,0 +1,44 @@
+.body{
+    background-color: #FFFFFF;
+}
+
+.caixa1{
+    border: 2px solid #898989;
+    border-radius: 40px;
+    width: 100%;
+    height: 100%;
+    color: #898989;
+}
+
+.caixa2{
+    width: 100%;
+    height: 100%;
+    background-color: #8F8B8B;
+}
+
+.titulo{
+    font-size: 1.6rem;
+}
+.divVisao{
+    color: #898989;
+}
+.caixa4{
+    border: 2px solid #898989;
+    border-radius: 40px;
+    width: 100%;
+    height: 100%;
+    color: #898989;
+}
+.footer{
+    background-color: #212738;
+    width: 100%;
+    height: 30vh;
+}
+.texto{
+    color: white;
+    width: 20%;
+}
+.icones{
+    color: white;
+    font-size: 3rem;
+}
