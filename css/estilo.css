@@ -1,17 +1,13 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 /*Navbar */
 
 .menu {
     background-color: #080E33;
-    height: 100px;
 }
 
 .menu-link {
     color: #fff;
 }
+
+
 
 /*Banner*/
