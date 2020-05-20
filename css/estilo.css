@@ -8,7 +8,14 @@
 
 .menu-link {
     color: #fff;
-    font-family: 'Roboto', sans-serif;}
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.nav-item button{
+    margin-left: .5rem;
+    margin-top: .5rem;
+}
 
 
 
