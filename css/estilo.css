@@ -1,7 +1,7 @@
 /*Navbar */
 
 .menu {
-    background-color: #080E33;
+    background-color: #212738;
 }
 
 .menu-link {
@@ -11,3 +11,7 @@
 
 
 /*Banner*/
+
+.navbar-brand img{
+
+}
