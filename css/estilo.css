@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/*Navbar */
+
+.menu {
+    background-color: #212738;
+}
+
+.menu-link {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.nav-item button{
+    margin-left: .5rem;
+    margin-top: .5rem;
+}
+
+
+
+/*Banner*/
+
+.card h2{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(17, 17, 32);
+    font-size: 2.9rem;
+}
