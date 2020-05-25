@@ -1,4 +1,5 @@
 
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 /*Navbar */
@@ -60,4 +61,32 @@
     background-color: #212738;
     color: white;
     transition: all 0.5s;
+}
+
+.body{
+    background-color: #FFFFFF;
+}
+
+.caixa1, .caixa4{
+    border: 2px solid #898989;
+    border-radius: 40px;
+    width: 100%;
+    height: 100%;
+    color: #898989;
+}
+
+.caixa2, .caixa3{
+    width: 100%;
+    height: 100%;
+    background-color: #898989;
+}
+
+.caixa3{
+    background-image: url(../img/quemsomos.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo{
+    font-size: 1.6rem;
 }
