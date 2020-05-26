@@ -1,17 +1,9 @@
 
 /* projetos ja realizados */
-.pqseed{
-    margin-top: 6%;
-    letter-spacing: 0px;
-    color: #141721;
-    opacity: 1;
-    font-size: 45px;
-    height: 67px;
-
-}
 
 .fileira{
     margin: 10px;
+    border: 1px solid gray;
 
 }
 p{
